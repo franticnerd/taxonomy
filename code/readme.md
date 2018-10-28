@@ -25,6 +25,12 @@ The input consists of three files:
   - Every line is the embedding of a keyword.
 
 
+
+The DBLP dataset used in the paper is available here:
+
+https://drive.google.com/file/d/1GbxKrxrmFrKt5vgDHP1xe1Qr_rfvR1jh/view?usp=sharing
+
+
 # How to run?
 
 Execute run.sh
